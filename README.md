@@ -9,7 +9,7 @@ This is the server for the Tic-Tac-Toe web application. This handles the POST Re
 
 ## How to install:
 
-1. Clone the repository using `git clone`
+1. Clone the repository using `git clone https://github.com/jfvalerio/tictactoe-server.git`
 2. Install the node modules using `npm install`
 
 ## How to run the program:
