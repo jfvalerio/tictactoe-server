@@ -1,6 +1,6 @@
 # Tic-Tac-Toe (Server)
 
-This is the server for the Tic-Tac-Toe web application. This handles the POST Request containing the board state which will then be evaluated to check if there is a winner or if the game has been decided with a draw.
+This is the server for the Tic-Tac-Toe web application. This handles the POST Request containing the board state which will then be evaluated to check if there is a winner or if the game has been decided with a draw. This project was developed in Ubuntu using Windows Subsystem for Linux.
 
 ## Technologies Used:
 
